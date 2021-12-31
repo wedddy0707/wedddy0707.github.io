@@ -1,6 +1,7 @@
 # Research Interest
 - Natural Language Processing / Computational Linguistics
 - Emergent Communication
+- Combinatory Categorial Grammar
 
 # Education
 - Master of Computer Science (April 2021-)
@@ -14,6 +15,6 @@
 
 # Publication
 - On the Relationship between Zipf's Law of Abbreviation and Interfering Noise in Emergent Languages.
-  <u>Ryo Ueda</u>, Koki Washio.
-  ACL-IJCNLP SRW 2021.
+  <u>Ryo Ueda</u>, Koki Washio.\
+  ACL-IJCNLP SRW 2021.\
   [[paper]](https://aclanthology.org/2021.acl-srw.6/)
