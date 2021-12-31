@@ -14,7 +14,7 @@
   - Supervisor: Prof. Yusuke Miyao
 
 # Publication
-- On the Relationship between Zipf's Law of Abbreviation and Interfering Noise in Emergent Languages.
-  <u>Ryo Ueda</u>, Koki Washio.\
-  ACL-IJCNLP SRW 2021.\
+- On the Relationship between Zipf's Law of Abbreviation and Interfering Noise in Emergent Languages.\
+  <u>Ryo Ueda</u>, Koki Washio.
+  ACL-IJCNLP SRW 2021.
   [[paper]](https://aclanthology.org/2021.acl-srw.6/)
