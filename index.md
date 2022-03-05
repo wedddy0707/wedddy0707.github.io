@@ -1,3 +1,5 @@
+- M1 student at the University of Tokyo
+
 # Research Interest
 - Natural Language Processing / Computational Linguistics
 - Emergent Communication
@@ -22,3 +24,5 @@
 # Domestic Publications (Non-refereed)
 - 創発言語でもHarris の分節原理は成り立つのか？\
   <u>上田亮</u>，石井太河，宮尾祐介．言語処理学会第28回年次大会 (NLP2022)．
+- LSTMの無変化性バイアスの実験的分析\
+  石井太河，<u>上田亮</u>，宮尾祐介．言語処理学会第28回年次大会 (NLP2022)．
