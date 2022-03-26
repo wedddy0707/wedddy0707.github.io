@@ -22,6 +22,12 @@
   ACL-IJCNLP SRW 2021.
   [[paper]](https://aclanthology.org/2021.acl-srw.6/)
 
+# Publications (Non-refereed)
+2022
+- Categorial Grammar Induction as a Compositionality Measure for Emergent Languages in Signaling Games.\
+  <u>Ryo Ueda</u>, Taiga Ishii, Koki Washio, Yusuke Miyao.
+  Emergent Communication Workshop at ICLR 2022.
+
 # Domestic Publications (Non-refereed)
 2022
 - 創発言語でもHarris の分節原理は成り立つのか？\
