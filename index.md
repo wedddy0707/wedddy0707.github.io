@@ -34,3 +34,8 @@
   <u>上田亮</u>，石井太河，宮尾祐介．言語処理学会第28回年次大会 (NLP2022)．(優秀賞)
 - LSTMの無変化性バイアスの実験的分析\
   石井太河，<u>上田亮</u>，宮尾祐介．言語処理学会第28回年次大会 (NLP2022)．(委員特別賞)
+
+# Internship
+- NTT Communication Science Laboratory (2021 Aug-Sep, 2022 Feb-Mar)
+- Yahoo! Japan (2021 Aug-Sep)
+- pluszero (part-time job, 2020 Nov-)
