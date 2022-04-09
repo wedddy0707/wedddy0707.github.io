@@ -23,13 +23,13 @@
   [[paper]](https://aclanthology.org/2021.acl-srw.6/)
 
 # Publications (Non-refereed)
-2022
+2022 (to appear)
 - Categorial Grammar Induction as a Compositionality Measure for Emergent Languages in Signaling Games.\
   <u>Ryo Ueda</u>, Taiga Ishii, Koki Washio, Yusuke Miyao.
   Emergent Communication Workshop at ICLR 2022.
 
 # Domestic Publications (Non-refereed)
-2022
+2022 (to appear)
 - 創発言語でもHarris の分節原理は成り立つのか？\
   <u>上田亮</u>，石井太河，宮尾祐介．言語処理学会第28回年次大会 (NLP2022)．(優秀賞)
 - LSTMの無変化性バイアスの実験的分析\
