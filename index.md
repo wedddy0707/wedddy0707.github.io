@@ -1,9 +1,10 @@
 - M1 student at the University of Tokyo
 
 # Research Interest
-- Natural Language Processing / Computational Linguistics
+- Computational Linguistics / Natural Language Processing
 - Emergent Communication
 - Combinatory Categorial Grammar
+- Cognitive Modeling
 
 # Education
 - Master of Computer Science (April 2021-)
