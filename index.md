@@ -1,4 +1,4 @@
-- M1 student at the University of Tokyo
+- M2 student at the University of Tokyo
 
 # Research Interest
 - Computational Linguistics / Natural Language Processing
